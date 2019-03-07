@@ -1,0 +1,8 @@
+server:
+  port: 8779
+
+shiro:
+  loginUrl: /login.html
+  userNativeSessionManager: true
+  sessionManager:
+    sessionIdUrlRewritingEnabled: false
